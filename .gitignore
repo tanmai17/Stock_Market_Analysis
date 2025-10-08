@@ -1,0 +1,9 @@
+# Ignore auto-generated CSVs
+*.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Colab checkpoints
+.ipynb_checkpoints/
